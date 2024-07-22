@@ -1,4 +1,4 @@
-# flutter_application_2
+# Basic mobile Calculator
 
 A new Flutter project.
 
